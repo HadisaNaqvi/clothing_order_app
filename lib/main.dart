@@ -12,6 +12,7 @@ import 'providers/cart_provider.dart';
 import 'providers/wishlist_provider.dart';
 
 void main() async {
+  // hello
   WidgetsFlutterBinding.ensureInitialized();
   await Hive.initFlutter();
 
